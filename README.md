@@ -1,7 +1,9 @@
 # MyCourses-RentACar
 Engin Demiroğ - RenACar Projesi
-Neler Öğrendim?
-1. Katmanlar kurduk.
+
+A) 1. Kısımda Neler Öğrendim?
+
+1. Katmanları kurduk.
 2. Cqrs ve Mediatr
 3. Senkron ve Asenkron
 4. Dynamic Query
