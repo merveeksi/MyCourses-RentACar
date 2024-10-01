@@ -12,4 +12,4 @@ A) 1. Kısımda Neler Öğrendim?
 7. Application Layer
 8. Response Request Pattern
 
-İleri seviye bir kurs olduğu için daha detaylı çalışmakta fayda var.
+İleri seviye bir kurs olduğu için daha detaylı çalışmakta fayda var..
