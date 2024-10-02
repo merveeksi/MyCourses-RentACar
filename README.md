@@ -13,3 +13,4 @@ A) 1. Kısımda Neler Öğrendim?
 8. Response Request Pattern
 
 İleri seviye bir kurs olduğu için daha detaylı çalışmakta fayda var..
+.
