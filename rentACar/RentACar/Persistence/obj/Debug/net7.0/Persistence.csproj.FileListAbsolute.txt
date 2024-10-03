@@ -19,3 +19,29 @@
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/obj/Debug/net7.0/refint/Persistence.dll
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.pdb
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+<<<<<<< HEAD
+=======
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)

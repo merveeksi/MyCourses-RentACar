@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Mr6OWkBHdbs=",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj",
+=======
+  "dgSpecHash": "SjivxzOs6IhNHdLJOFxu/U80lrp3fmXSop1tRnrZqe6cDo6snRkY/n6SuO/lmE8EbA5Hhhwfqpc2MeZ6bZgrGA==",
+  "success": true,
+  "projectFilePath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
   "expectedPackageFiles": [
     "/Users/pc/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/pc/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

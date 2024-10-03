@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj",
         "packagesPath": "/Users/pc/.nuget/packages/",
         "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/obj/",
+=======
+    "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj",
+        "packagesPath": "/Users/pc/.nuget/packages/",
+        "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pc/.nuget/NuGet/NuGet.Config"

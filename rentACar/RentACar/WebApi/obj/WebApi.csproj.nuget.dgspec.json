@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/pc/Desktop/MyCourses/rentACar/RentACar/WebApi/WebApi.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj",
         "packagesPath": "/Users/pc/.nuget/packages/",
         "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/obj/",
+=======
+    "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj",
+        "packagesPath": "/Users/pc/.nuget/packages/",
+        "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -26,8 +40,13 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj": {
                 "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj"
+=======
+              "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj": {
+                "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj"
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
               }
             }
           }
@@ -79,6 +98,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -87,6 +107,16 @@
         "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj",
         "packagesPath": "/Users/pc/.nuget/packages/",
         "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/obj/",
+=======
+    "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj",
+        "packagesPath": "/Users/pc/.nuget/packages/",
+        "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -132,6 +162,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -140,6 +171,16 @@
         "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/Persistence.csproj",
         "packagesPath": "/Users/pc/.nuget/packages/",
         "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/obj/",
+=======
+    "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/pc/.nuget/packages/",
+        "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -154,11 +195,19 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj": {
                 "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj"
               },
               "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj": {
                 "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj"
+=======
+              "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj": {
+                "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj"
+              },
+              "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj": {
+                "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj"
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
               }
             }
           }
@@ -177,6 +226,15 @@
               "target": "Package",
               "version": "[7.0.9, )"
             },
+<<<<<<< HEAD
+=======
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.9, )"
@@ -210,6 +268,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/Users/pc/Desktop/MyCourses/rentACar/RentACar/WebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -218,6 +277,16 @@
         "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/WebApi/WebApi.csproj",
         "packagesPath": "/Users/pc/.nuget/packages/",
         "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/WebApi/obj/",
+=======
+    "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/WebApi.csproj",
+        "packagesPath": "/Users/pc/.nuget/packages/",
+        "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -232,11 +301,19 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj": {
                 "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj"
               },
               "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/Persistence.csproj": {
                 "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/Persistence.csproj"
+=======
+              "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj": {
+                "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj"
+              },
+              "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/Persistence.csproj"
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
               }
             }
           }
@@ -251,10 +328,40 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+<<<<<<< HEAD
+=======
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.18.1, )"
+            },
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.20, )"
             },
+<<<<<<< HEAD
+=======
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.12, )"

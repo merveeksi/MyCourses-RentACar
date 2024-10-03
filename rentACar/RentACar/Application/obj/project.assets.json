@@ -742,11 +742,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj",
       "projectName": "Application",
       "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/Application.csproj",
       "packagesPath": "/Users/pc/.nuget/packages/",
       "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/obj/",
+=======
+      "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj",
+      "projectName": "Application",
+      "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj",
+      "packagesPath": "/Users/pc/.nuget/packages/",
+      "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -761,8 +769,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
             "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj": {
               "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj"
+=======
+            "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj": {
+              "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj"
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
             }
           }
         }

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="UserContentModel">
+<<<<<<< HEAD
     <attachedFolders />
+=======
+    <attachedFolders>
+      <Path>../../rentACar</Path>
+    </attachedFolders>
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
     <explicitIncludes />
     <explicitExcludes />
   </component>

@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
+<<<<<<< HEAD
 build_property.ProjectDir = /Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/
+=======
+build_property.ProjectDir = /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)

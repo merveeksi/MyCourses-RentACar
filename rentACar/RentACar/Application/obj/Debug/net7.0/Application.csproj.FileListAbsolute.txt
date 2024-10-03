@@ -17,3 +17,25 @@
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/obj/Debug/net7.0/refint/Application.dll
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/obj/Debug/net7.0/Application.pdb
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Application/obj/Debug/net7.0/ref/Application.dll
+<<<<<<< HEAD
+=======
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Application.deps.json
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Core.Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Core.Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Domain.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Domain.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Core.Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/ref/Application.dll
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)

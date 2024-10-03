@@ -8,6 +8,13 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.9" />
+<<<<<<< HEAD
+=======
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
       <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.9" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.9" />
       <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />

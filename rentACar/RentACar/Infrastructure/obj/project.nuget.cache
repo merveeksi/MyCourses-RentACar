@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wykF+xSDsII=",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Infrastructure/Infrastructure.csproj",
+=======
+  "dgSpecHash": "VNax/lu93Tg=",
+  "success": true,
+  "projectFilePath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/Infrastructure.csproj",
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
   "expectedPackageFiles": [],
   "logs": []
 }
