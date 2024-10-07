@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Infrastructure/Infrastructure.csproj": {}
-  },
-  "projects": {
-    "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Infrastructure/Infrastructure.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Infrastructure/Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/Users/pc/.nuget/packages/",
-        "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Infrastructure/obj/",
-=======
     "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/pc/.nuget/packages/",
         "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/obj/",
->>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pc/.nuget/NuGet/NuGet.Config"

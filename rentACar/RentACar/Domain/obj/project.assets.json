@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj",
-      "projectName": "Domain",
-      "projectPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/Domain.csproj",
-      "packagesPath": "/Users/pc/.nuget/packages/",
-      "outputPath": "/Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/obj/",
-=======
       "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj",
       "projectName": "Domain",
       "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj",
       "packagesPath": "/Users/pc/.nuget/packages/",
       "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/",
->>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -70,5 +62,13 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
