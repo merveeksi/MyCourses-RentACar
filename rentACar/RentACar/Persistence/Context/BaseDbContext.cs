@@ -9,7 +9,8 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Persistence.Contexts;
+
+namespace Persistence.Context;
 
 public class BaseDbContext:DbContext
 {
@@ -26,10 +27,12 @@ public class BaseDbContext:DbContext
     // public DbSet<UserOperationClaim> UserOperationClaims { get; set; }
     // public DbSet<EmailAuthenticator> EmailAuthenticators { get; set; }
 
-    public BaseDbContext(DbContextOptions dbContextOptions, IConfiguration configuration) : base(dbContextOptions)
+    
+    
+    public BaseDbContext(DbContextOptions <BaseDbContext> options, IConfiguration configuration) : base(options)
     {
         Configuration = configuration;
-        Database.EnsureCreated();
+        Database.EnsureCreated(); // Veritabanı yoksa oluşturulmasını sağlar.
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -37,3 +40,8 @@ public class BaseDbContext:DbContext
         modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
     }
 }
+// public BaseDbContext(DbContextOptions dbContextOptions, IConfiguration configuration) : base(dbContextOptions)
+//    {
+//        Configuration = configuration;
+//        Database.EnsureCreated();
+//    }

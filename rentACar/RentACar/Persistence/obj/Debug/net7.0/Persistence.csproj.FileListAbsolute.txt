@@ -21,7 +21,9 @@
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Persistence/obj/Debug/net7.0/ref/Persistence.dll
 <<<<<<< HEAD
 =======
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Application.dll
@@ -41,7 +43,5 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/refint/Persistence.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.pdb
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/ref/Persistence.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
->>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/ref/Persistence.dll

@@ -11,6 +11,7 @@
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
 <<<<<<< HEAD
 =======
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
@@ -22,4 +23,3 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
->>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)

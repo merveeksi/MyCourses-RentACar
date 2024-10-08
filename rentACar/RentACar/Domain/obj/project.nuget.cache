@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujWn+2NsiuU=",
+  "dgSpecHash": "+tppkkpeQhCUaVqrp7qgL5Ro1qhtY3q191OZCqGNQLYBAA9mi8YWBYjv3uIzUCRlslHAExtxe6ibJ2xaQo9X1A==",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

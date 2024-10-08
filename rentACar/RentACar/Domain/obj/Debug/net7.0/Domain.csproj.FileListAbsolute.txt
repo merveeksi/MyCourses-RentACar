@@ -15,6 +15,7 @@
 /Users/pc/Desktop/MyCourses/rentACar/RentACar/Domain/obj/Debug/net7.0/ref/Domain.dll
 <<<<<<< HEAD
 =======
+>>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/bin/Debug/net7.0/Domain.deps.json
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/bin/Debug/net7.0/Domain.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/bin/Debug/net7.0/Domain.pdb
@@ -30,4 +31,3 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/Debug/net7.0/refint/Domain.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/Debug/net7.0/Domain.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Domain/obj/Debug/net7.0/ref/Domain.dll
->>>>>>> f8079a9 (Initial commit for MyCourses_RentACar)

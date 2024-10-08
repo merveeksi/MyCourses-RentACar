@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Uesod09+HMw=",
+  "dgSpecHash": "SjivxzOs6IhNHdLJOFxu/U80lrp3fmXSop1tRnrZqe6cDo6snRkY/n6SuO/lmE8EbA5Hhhwfqpc2MeZ6bZgrGA==",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/Application.csproj",
   "expectedPackageFiles": [
@@ -21,12 +21,5 @@
     "/Users/pc/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
