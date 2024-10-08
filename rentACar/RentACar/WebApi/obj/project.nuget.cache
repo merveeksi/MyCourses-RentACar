@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hdbOD9L/Wdw=",
+  "dgSpecHash": "EM+5W5YodXY=",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,6 @@
     "/Users/pc/.nuget/packages/microsoft.entityframeworkcore.design/7.0.9/microsoft.entityframeworkcore.design.7.0.9.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.9/microsoft.entityframeworkcore.inmemory.7.0.9.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.9/microsoft.entityframeworkcore.relational.7.0.9.nupkg.sha512",
-    "/Users/pc/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.9/microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/Users/pc/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

@@ -20,14 +20,7 @@ public static class PersistenceServiceRegistration
         services.AddDbContext<BaseDbContext>(options => options.UseNpgsql(configuration.GetConnectionString("RentACar"))); // Veritabanı bağlantı dizesinin doğru olduğundan emin olun.
        
         services.AddScoped<IBrandRepository, BrandRepository>();
-        // services.AddScoped<IModelRepository, ModelRepository>();
-        //
-        // services.AddScoped<IEmailAuthenticatorRepository, EmailAuthenticatorRepository>();
-        // services.AddScoped<IOperationClaimRepository, OperationClaimRepository>();
-        // services.AddScoped<IOtpAuthenticatorRepository, OtpAuthenticatorRepository>();
-        // services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
-        // services.AddScoped<IUserRepository, UserRepository>();
-        // services.AddScoped<IUserOperationClaimRepository, UserOperationClaimRepository>();
+        services.AddScoped<IModelRepository, ModelRepository>();
 
         return services;
     }
