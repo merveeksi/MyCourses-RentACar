@@ -7017,11 +7017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Application/Core.Application.csproj",
+      "projectUniqueName": "/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/Core.Application.csproj",
       "projectName": "Core.Application",
-      "projectPath": "/Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Application/Core.Application.csproj",
+      "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/Core.Application.csproj",
       "packagesPath": "/Users/pc/.nuget/packages/",
-      "outputPath": "/Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Application/obj/",
+      "outputPath": "/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -7036,8 +7036,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Persistence/Core.Persistence.csproj": {
-              "projectPath": "/Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Persistence/Core.Persistence.csproj"
+            "/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/Core.Persistence.csproj": {
+              "projectPath": "/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/Core.Persistence.csproj"
             }
           }
         }

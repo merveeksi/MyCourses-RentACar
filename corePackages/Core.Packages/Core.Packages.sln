@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Persistence", "Core.Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Application", "Core.Application\Core.Application.csproj", "{65421DDB-215A-4C0E-8705-EBE23218050C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.CrossCuttingConcerns", "Core.CrossCuttingConcerns\Core.CrossCuttingConcerns.csproj", "{14075EB6-A403-4992-84E2-5E0C0D5503BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{65421DDB-215A-4C0E-8705-EBE23218050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65421DDB-215A-4C0E-8705-EBE23218050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65421DDB-215A-4C0E-8705-EBE23218050C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14075EB6-A403-4992-84E2-5E0C0D5503BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14075EB6-A403-4992-84E2-5E0C0D5503BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14075EB6-A403-4992-84E2-5E0C0D5503BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14075EB6-A403-4992-84E2-5E0C0D5503BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

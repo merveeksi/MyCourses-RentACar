@@ -10,3 +10,15 @@
 /Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb
 /Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll
 /Users/pc/Desktop/MyCourses/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.AssemblyReference.cache
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.deps.json
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.AssemblyReference.cache
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfo.cs
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.CoreCompileInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll
