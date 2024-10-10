@@ -374,3 +374,5 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/ref/WebApi.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/FluentValidation.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll

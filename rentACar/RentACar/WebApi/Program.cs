@@ -1,4 +1,5 @@
 using Application;
+using Core.CrossCuttingConcerns.Exceptions.Extensions;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 using Persistence.Context;
@@ -25,6 +26,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+//if(app.Environment.IsProduction()) //görülen hatanın sebebini görmek için arada açıp bakabilirsin
+app.ConfigureCustomExceptionMiddleware(); //Global exception handler, hata yönetimi
 
 app.UseHttpsRedirection();
 

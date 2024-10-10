@@ -1,0 +1,12 @@
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.deps.json
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfo.cs
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.dll
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/refint/Core.CrossCuttingConcerns.dll
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.pdb
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.CrossCuttingConcerns/obj/Debug/net7.0/ref/Core.CrossCuttingConcerns.dll

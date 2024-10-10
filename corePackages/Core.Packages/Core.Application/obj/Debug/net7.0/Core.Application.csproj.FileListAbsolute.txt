@@ -16,7 +16,9 @@
 /Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/bin/Debug/net7.0/Core.Application.deps.json
 /Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/bin/Debug/net7.0/Core.Application.dll
 /Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/bin/Debug/net7.0/Core.Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
 /Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/bin/Debug/net7.0/Core.Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
 /Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/bin/Debug/net7.0/Core.Persistence.pdb
 /Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/obj/Debug/net7.0/Core.Application.csproj.AssemblyReference.cache
 /Users/pc/Desktop/MyCourses-RentACar/corePackages/Core.Packages/Core.Application/obj/Debug/net7.0/Core.Application.GeneratedMSBuildEditorConfig.editorconfig
