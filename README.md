@@ -12,5 +12,13 @@ A) 1. Kısımda Neler Öğrendim?
 7. Application Layer
 8. Response Request Pattern
 
-İleri seviye bir kurs olduğu için daha detaylı çalışmakta fayda var..
-.
+İleri seviye bir kurs olduğu için daha detaylı çalışmakta fayda var.
+
+
+B) 2. Kısımda Neler Öğrendim?
+1. İlişkisel domain modelleme
+2. Entity Configuration and Repository
+3. Include and Dynamic
+4. BusinessRules and SubClass Type IoC
+5. Global hata yönetimi
+6. Pipeline, Validation & Transaction
