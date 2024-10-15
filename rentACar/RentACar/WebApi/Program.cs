@@ -14,6 +14,8 @@ builder.Services.AddApplicationServices();
 
 builder.Services.AddPersistenceServices(builder.Configuration);
 
+builder.Services.AddHttpContextAccessor();
+
 //builder.Services.AddDistributedMemoryCache(); //yayın ortamında redis kullanılabilir
 builder.Services.AddStackExchangeRedisCache(opt=>opt.Configuration="localhost:6379"); //solid prensiplerine uygun bir şekilde redis cache eklendi
 

@@ -13,7 +13,6 @@
 
     <ItemGroup>
       <Folder Include="Pipelines\Authorization\" />
-      <Folder Include="Pipelines\Logging\" />
     </ItemGroup>
 
     <ItemGroup>

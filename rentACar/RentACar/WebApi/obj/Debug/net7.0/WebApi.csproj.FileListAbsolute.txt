@@ -314,15 +314,16 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Serilog.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Serilog.Sinks.File.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Serilog.Sinks.MSSqlServer.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Serilog.Sinks.PeriodicBatching.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/StackExchange.Redis.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.ClientModel.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.CodeDom.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Formats.Asn1.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Linq.Dynamic.Core.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Memory.Data.dll
@@ -330,8 +331,8 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
@@ -340,7 +341,7 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Application.dll
@@ -376,3 +377,5 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/WebApi.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Serilog.Sinks.PeriodicBatching.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Serilog.Sinks.PostgreSQL.dll
