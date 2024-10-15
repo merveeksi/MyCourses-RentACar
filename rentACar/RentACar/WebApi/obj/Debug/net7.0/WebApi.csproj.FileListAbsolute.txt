@@ -278,6 +278,8 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Azure.Core.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/FluentValidation.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Humanizer.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/MediatR.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/MediatR.Contracts.dll
@@ -343,6 +345,7 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Application.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.Persistence.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Domain.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Persistence.dll
@@ -350,6 +353,7 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Persistence.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Domain.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.Persistence.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/WebApi.csproj.AssemblyReference.cache
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
@@ -372,7 +376,3 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/WebApi.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/obj/Debug/net7.0/ref/WebApi.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/FluentValidation.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/WebApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll

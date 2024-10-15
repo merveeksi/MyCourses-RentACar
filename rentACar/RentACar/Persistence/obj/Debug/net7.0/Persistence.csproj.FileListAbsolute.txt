@@ -30,10 +30,12 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Persistence.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Domain.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Application.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Domain.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Persistence.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Application.pdb
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
@@ -45,5 +47,3 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/ref/Persistence.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
-/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
