@@ -12,10 +12,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Pipelines\Authorization\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="FluentValidation" Version="11.10.0" />
       <PackageReference Include="MediatR" Version="12.4.1" />
       <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="7.0.4" />
