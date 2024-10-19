@@ -41,3 +41,5 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/refint/Application.dll
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/Application.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/obj/Debug/net7.0/ref/Application.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Core.Security.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Application/bin/Debug/net7.0/Core.Security.pdb

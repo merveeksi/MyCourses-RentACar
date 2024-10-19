@@ -10,6 +10,7 @@
         "dependencies": {
           "Core.CrossCuttingConcerns": "1.0.0",
           "Core.Persistence": "1.0.0",
+          "Core.Security": "1.0.0",
           "FluentValidation": "11.10.0",
           "MediatR": "12.4.1",
           "Microsoft.Extensions.Configuration.Binder": "7.0.4"
@@ -881,6 +882,14 @@
           }
         }
       },
+      "Otp.NET/1.4.0": {
+        "runtime": {
+          "lib/net7.0/Otp.NET.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
@@ -1749,6 +1758,19 @@
         "runtime": {
           "Core.Persistence.dll": {}
         }
+      },
+      "Core.Security/1.0.0": {
+        "dependencies": {
+          "Core.Persistence": "1.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "7.0.4",
+          "Microsoft.IdentityModel.Tokens": "6.35.0",
+          "Otp.NET": "1.4.0",
+          "System.IdentityModel.Tokens.Jwt": "6.35.0"
+        },
+        "runtime": {
+          "Core.Security.dll": {}
+        }
       }
     }
   },
@@ -2226,6 +2248,13 @@
       "sha512": "sha512-cvqU1o/gTeX9ynzCEa1NkBEAtGFxLwROw1KweG/giNEYSSw/6W3G7hvYIFIyrdgTorEbLu/AaI2Lxs5TRB4goQ==",
       "path": "npgsql/5.0.5",
       "hashPath": "npgsql.5.0.5.nupkg.sha512"
+    },
+    "Otp.NET/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fk1NKc0lWmlo6LAFYpFJInRgFKt72knRNEvxndDYoQHFwYOPXav+WEUBvQA0k4lxq5xt0SymrZ+oi0F/G40bPQ==",
+      "path": "otp.net/1.4.0",
+      "hashPath": "otp.net.1.4.0.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
@@ -2905,6 +2934,11 @@
       "sha512": ""
     },
     "Core.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.Security/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

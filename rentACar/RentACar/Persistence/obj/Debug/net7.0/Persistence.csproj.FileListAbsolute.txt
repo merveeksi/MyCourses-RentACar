@@ -47,3 +47,5 @@
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.pdb
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
 /Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Security.dll
+/Users/pc/Desktop/MyCourses-RentACar/rentACar/RentACar/Persistence/bin/Debug/net7.0/Core.Security.pdb
