@@ -22,3 +22,4 @@ B) 2. Kısımda Neler Öğrendim?
 4. BusinessRules and SubClass Type IoC
 5. Global hata yönetimi
 6. Pipeline, Validation & Transaction
+7. ..
